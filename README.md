@@ -1,12 +1,12 @@
 
 # Movie Discovery and Recommendation App
 
-## Overview
+##🎬 Overview
 This project is a **Movie Discovery and Recommendation App** built using **Next.js**, **Tailwind CSS**, and **TypeScript**. The app allows users to explore a curated list of movies, filter them by year and genre, and get personalized recommendations. The app features a modern, responsive design with a dark theme for a cinematic feel.
 
 --- 
 
-## Project Goals
+## 🌟 Project Goals
 The primary goals of this project are:
 - To create a user-friendly platform for discovering and exploring movies.
 - To implement a responsive and visually appealing design.
@@ -15,13 +15,13 @@ The primary goals of this project are:
 
 ---
 
-## Key Features
-### 1. **Home Page**
+## 🚀 Key Features
+### 1. 🔥**Home Page**
 - **Hero Section**: A visually striking section with a background image and a call-to-action button to explore movies.
 - **Featured Movies Section**: A grid of movie cards showcasing movie titles, descriptions, and posters.
 - **Call-to-Action Section**: Encourages users to sign up for personalized movie recommendations.
 
-### 2. **Movies Page**
+### 2.📄 **Movies Page**
 - **Search and Filters**: Users can search for movies and filter them by year and genre.
 - **Movie Cards**: Each card displays a movie's title, poster, and release year.
 - **Pagination**: Allows users to navigate through the movie list.
@@ -30,7 +30,7 @@ The primary goals of this project are:
 - **Header**: Contains navigation links (Home, Movies, Sign Up) and is sticky for easy access.
 - **Footer**: Displays copyright information.
 
-### 4. **Responsive Design**
+### 4.  📱**Responsive Design**
 - The app is fully responsive and works seamlessly on mobile, tablet, and desktop devices.
 
 ---
@@ -51,6 +51,9 @@ The primary goals of this project are:
 ### 3. **Data Fetching**
 - The app was designed to fetch movie data from an external API (e.g., TMDB, OMDb). However, due to issues with API availability, static data was used for demonstration purposes.
 
+### - 🔄 **Error Handling and Loading States**
+- The app handles errors effectively b displaying an error message such as "Something went wrong while fetching movies."
+
 ### 4. **Deployment**
 - The app was deployed on **Vercel** for easy access and sharing.
 
@@ -65,6 +68,17 @@ The primary goals of this project are:
 - **GitHub Repository**: [Insert GitHub Repository Link Here]
 
 ---
+## 🛠️ Tech Stack
+
+| Technology         | Purpose                          |
+|-------------------|----------------------------------|
+| Next.js            | Server-side rendering & routing |
+| React              | Frontend library                |
+| TypeScript         | Type safety                     |
+| Styled Components  | Styling and UI design           |
+| TMDB API           | Movie data source               |
+| Local Storage      | Save user favorites             |
+
 
 ## Evaluation Criteria
 The project was evaluated based on the following criteria:

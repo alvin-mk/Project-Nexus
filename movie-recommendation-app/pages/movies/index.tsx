@@ -36,9 +36,13 @@ const Movies: React.FC = () => {
 
       const data = await response.json();
       setMovies(data.movies);
-    } catch (err: any) {
+    } catch (err: unknown) {
       console.error("Fetch error:", err);
-      setError(err.message || "Something went wrong while fetching movies.");
+      if (err instanceof Error) {
+        setError(err.message || "Something went wrong while fetching movies.");
+      } else {
+        setError("An unknown error occurred.");
+      }
     } finally {
       setLoading(false);
     }

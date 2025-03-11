@@ -94,7 +94,3 @@ This project demonstrates my ability to build a modern, responsive web applicati
 
 ---
 
-## How to Run the Project Locally
-1. Clone the repository:
-   ```bash
-   git clone [Insert GitHub Repository Link Here]

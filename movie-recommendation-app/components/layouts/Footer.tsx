@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col items-start md:items-center space-y-6">
   <h3 className="text-xl font-semibold">Quick Links</h3>
   <div className="flex flex-wrap gap-6">
-    <Link href="/" className="hover:text-[#5909e2] transition-colors duration-300">Home</Link>
+    <Link href="/home" className="hover:text-[#5909e2] transition-colors duration-300">Home</Link>
     <Link href="/movies" className="hover:text-[#5909e2] transition-colors duration-300">Movies</Link>
     <Link href="/contact" className="hover:text-[#5909e2] transition-colors duration-300">Contact</Link>
     <Link href="/privacy" className="hover:text-[#5909e2] transition-colors duration-300">Privacy Policy</Link>

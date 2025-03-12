@@ -80,7 +80,7 @@ The primary goals of this project are:
 | Local Storage      | Save user favorites             |
 
 
-## Evaluation Criteria
+## 🎯Evaluation Criteria
 The project was evaluated based on the following criteria:
 1. **Functionality**:
    - Does the app work as expected?
@@ -96,14 +96,14 @@ The project was evaluated based on the following criteria:
 
 ---
 
-## Challenges Faced
+## 😥Challenges Faced
 ### API Integration
 - **Issue**: Despite multiple attempts, I was unable to generate a working API key from popular movie API providers (e.g., TMDB, OMDb, RapidAPI). All sites either required payment, had strict usage limits, or failed to provide a functional API key.
 - **Workaround**: Static data was used to demonstrate the app's functionality. This allowed me to focus on building the frontend and user experience.
 
 ---
 
-## Conclusion
+## 🙂Conclusion
 This project demonstrates my ability to build a modern, responsive web application using Next.js, Tailwind CSS, and TypeScript. While I faced challenges with API integration, I was able to create a fully functional and visually appealing movie discovery app. I look forward to improving this project further by integrating a reliable movie API in the future.
 
 ---

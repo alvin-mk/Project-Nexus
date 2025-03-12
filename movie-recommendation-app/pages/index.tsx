@@ -126,8 +126,6 @@ const Home: React.FC = () => {
           className="bg-[#dedb37] hover:bg-[#d3e136] text-white font-semibold py-3 px-8 rounded-lg"
         />
       </section>
-
-      {/* Footer */}
     </div>
   );
 };

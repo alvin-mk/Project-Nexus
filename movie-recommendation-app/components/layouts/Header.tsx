@@ -10,7 +10,7 @@ const Header: React.FC = () => {
   const [password, setPassword] = useState("");
 
   const handleSignUp = () => {
-    // Handle sign-up logic here (e.g., API call)
+    // Handle sign-up logic here (e.g., API call )
     console.log("Signing up with:", { username, email, password });
     // Close the modal after submission
     setIsSignUpModalOpen(false);

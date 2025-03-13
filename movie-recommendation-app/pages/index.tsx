@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import Image from "next/image"; // Import the  Image component from next/image
+import Image from "next/image"; // Import the  Image component from  next/image
 import Header from "@/components/layouts/Header";
 import Button from "@/components/commons/Button";
 

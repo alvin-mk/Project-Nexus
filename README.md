@@ -1,5 +1,5 @@
 
-# Movie Discovery and Recommendation App
+# Movie Discovery and Recommendation App .
 
 ##🎬 Overview
 This project is a **Movie Discovery and Recommendation App** built using **Next.js**, **Tailwind CSS**, and **TypeScript**. The app allows users to explore a curated list of movies, filter them by year and genre, and get personalized recommendations. The app features a modern, responsive design with a dark theme for a cinematic feel.
